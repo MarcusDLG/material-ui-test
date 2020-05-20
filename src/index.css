@@ -8,10 +8,15 @@ html {
 
 body {
   margin: 0;
+  padding: 1rem;
   min-height: 100%;
 }
 
 .sample {
   height: 40vh;
   width: auto;
+}
+
+.header {
+  background-color: #2e2e2e;
 }
